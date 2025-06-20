@@ -8,3 +8,4 @@ variable "subnet_cidr" {
     type = list(string)
   
 }
+
